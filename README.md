@@ -1,6 +1,6 @@
   
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="https://sandeeprawat.netlify.app">Sandeep Rawat</a></h2>
-<h4 align="center">A passionate Frontend Developer/UX Designer from India</h4>
+<h5 align="center">A passionate Frontend Developer/UX Designer from India</h5>
 <h6 align="left">I'm an enthusiastic Frontend Developer and Google Certified UX Designer who enjoys developing and designing.<br/>I have strong technical skills and scholarly background in engineering, web technologies, and web design.<br/>My passion occupies in development and design, and I'm interested in full-time Frontend Development or UX Designer role.</h6>
 
 <h3 align="left">Connect with me:</h3>
